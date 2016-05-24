@@ -107,7 +107,6 @@ public class Log {
 	 * Description:支持不定参数的error
 	 * @param message
 	 * @param params
-	 * Copyright (c) Digital Heaven. All Rights Reserved.
 	 * 1.0 YESUN 2013年11月28日 上午10:41:43 Create.
 	 * ChangeLog:
 	 */
